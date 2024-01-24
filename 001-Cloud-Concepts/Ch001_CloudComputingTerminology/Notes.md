@@ -37,4 +37,4 @@ Design principles for system recovery from disasters.
 
 ### High Availability
 Operational uptime calculation:
-\[ \text{Availability} = \frac{\text{Uptime}}{\text{Uptime + Downtime}} \]
+Availability = Uptime/Uptime + Downtime
