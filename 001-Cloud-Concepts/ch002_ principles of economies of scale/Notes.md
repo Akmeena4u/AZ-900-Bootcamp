@@ -24,3 +24,6 @@ While it's not feasible to reduce costs to zero, as underlying infrastructure ex
 
 ## **Microsoft's Example**
 In the current scale, Microsoft can offer multiple services for free, leveraging the minimal fraction of cost associated with providing those services.
+
+<img width="355" alt="image" src="https://github.com/Akmeena4u/AZ-900-Bootcamp/assets/93425334/b22b9d3a-87c7-47cf-bce4-ab17c0eb85f6">
+
