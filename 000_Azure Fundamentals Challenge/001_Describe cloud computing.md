@@ -42,6 +42,7 @@ Cloud computing is the delivery of computing services over the internet. Computi
 
  if you need to increase your IT infrastructure rapidly, you don’t have to wait to build a new datacenter—you can use the cloud to rapidly expand your IT footprint.
 
+---
 #### Describe the shared responsibility model
 
 - **Traditional Corporate Datacenter Responsibilities:**
@@ -78,7 +79,7 @@ Cloud computing is the delivery of computing services over the internet. Computi
 
 ![image](https://github.com/Akmeena4u/AZ-900-Bootcamp/assets/93425334/4a6471ff-7344-4072-b228-f42886b39d51)
 
-
+---
 #### Define cloud models
 
 - **Cloud Models Definition:**
@@ -115,4 +116,61 @@ Cloud computing is the delivery of computing services over the internet. Computi
   - Facilitates migration from VMware in a private cloud to a public or hybrid cloud.
   - Allows running VMware workloads in Azure seamlessly.
   - Offers integration and scalability.
+
+
+---
+
+#### Describe the consumption-based model
+
+**Consumption-Based Model Summary:**
+
+- **Expense Types:**
+  - **Capital Expenditure (CapEx):**
+    - Up-front expenditure for tangible resources.
+    - Examples: Building, datacenter, company vehicle.
+
+  - **Operational Expenditure (OpEx):**
+    - Spending money on services or products over time.
+    - Examples: Renting a venue, leasing a vehicle, cloud services.
+
+- **Cloud Computing and OpEx:**
+  - Operates on a consumption-based model.
+  - Payment for IT resources used, not for physical infrastructure.
+  - No upfront costs, only pay for what is consumed.
+
+- **Benefits of Consumption-Based Model:**
+  - No upfront expenses.
+  - Avoidance of managing costly, underutilized infrastructure.
+  - Flexibility to scale resources up or down based on demand.
+  - Stop paying for resources when they are no longer needed.
+
+- **Traditional Datacenter Challenges:**
+  - Estimating future resource needs is challenging.
+  - Overestimation leads to wasted expenditure.
+  - Underestimation results in capacity issues and decreased performance.
+  - Fixing under-provisioned datacenters is time-consuming.
+
+- **Cloud-Based Model Advantages:**
+  - Dynamic resource allocation.
+  - Add or remove virtual machines based on demand.
+  - Pay only for resources used, avoiding extra capacity costs.
+
+- **Cloud Computing Pricing Model:**
+  - Pay-as-you-go pricing model.
+  - Pay only for the cloud services utilized.
+  - Facilitates efficient cost planning, infrastructure management, and scalability.
+
+- **Cloud Computing Essence:**
+  - Renting compute power and storage from a provider's datacenter.
+  - Treat cloud resources like your own but return them when done.
+  - Billed only for actual usage, not for reserved capacity.
+
+- **Impact on Business:**
+  - Enables efficient cost planning.
+  - Enhances infrastructure efficiency.
+  - Facilitates rapid scalability as business needs change.
+
+---
+
+
 
